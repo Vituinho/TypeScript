@@ -16,8 +16,8 @@ const pessoa: Pessoa = {
 };
 
 export function setCorPreferida(pessoa: Pessoa, cor: corPreferida): Pessoa {
-  return { ...pessoa, corPreferida: cor};
+  return { ...pessoa, corPreferida: cor };
 }
 
-console.log(setCorPreferida(pessoa, "Azul"));
+console.log(setCorPreferida(pessoa, 'Azul'));
 console.log(pessoa);
