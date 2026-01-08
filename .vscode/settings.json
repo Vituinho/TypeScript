@@ -1,6 +1,6 @@
 {
   "code-runner.executorMap": {
-    "typescript": "cls && node -r ts-node"
+    "typescript": "cls && npx tsx"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
