@@ -10,7 +10,7 @@ const objetoA: {
 
 // Record<string, unknown>
 
-objetoA.chaveA = 'Outro valor';
+// objetoA.chaveA = 'Outro valor';
 // objetoA.chaveC = 'Nova chave';
 // objetoA.chaveD = 'Nova chave';
 
