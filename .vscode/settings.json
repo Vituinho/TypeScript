@@ -1,6 +1,6 @@
 {
   "code-runner.executorMap": {
-    "typescript": "cls && node -r ts-node/register/transpile-only"
+    "typescript": "cls && node -r ts-node"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
